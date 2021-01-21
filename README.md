@@ -8,3 +8,5 @@ The code in main.py will load the dataset ex8_movies.mat, providing the variable
 </br>
 Y is a 1682 x 943 matrix, containing ratings (1 - 5) of 1682 movies on 943 users
 </br>R is a 1682 x 943 matrix, where R(i,j) = 1 if and only if user j gave a rating to movie i
+</br>
+
